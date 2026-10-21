@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+
+# Browser artifacts
+*.log
+screenshots/
